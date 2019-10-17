@@ -1,0 +1,17 @@
+production:
+  name: Rails 6 API
+  monitor: true
+  profile: false
+  auto_instruments: true
+
+development:
+  name: Rails 6 API (development)
+  key: p9sHBdBVrYEBMfZzgFON
+  monitor: true
+  profile: false
+  auto_instruments: true
+  log_level: DEBUG
+
+test:
+  name: Rails 6 API (test)
+  monitor: false
